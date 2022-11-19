@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alwaysknocked
+- 👋 Hi, I’m Kader :)
 - 👀 I’m interested in gaming mostly rts games, working out :)
 - 🌱 I’m currently learning Java, c#, SQL
 - 📫 How to reach me 
